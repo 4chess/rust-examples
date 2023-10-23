@@ -1,7 +1,7 @@
 
 compiled in Linux. 
 
-Encrypt or decrrypt a file! No key needed, no passwoed needed. The app does all the work for you. Note, this is NOT for serious use. Yes, it is coded in Rust so there will not likely be memory issues, but this is example code so i did not include the extensive error handling and failsafes that a more serious encryption app should have. 
+Encrypt or decrrypt a file! No key needed, no password needed. The app does all the work for you. Note, this is NOT for serious use. Yes, it is coded in Rust so there will not likely be memory issues, but this is example code so i did not include the extensive error handling and failsafes that a more serious encryption app should have. 
 
 encrypt and decrypt files using the AES-GCM encryption algorithm. Here’s a detailed explanation of what each part of the app does:
 
