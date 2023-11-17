@@ -13,7 +13,7 @@ A simple, interactive command-line interface.
 How to Use ::
 To use this tool, ensure you have Rust installed on your system. Compile the program by navigating to its directory and running cargo build --release. This generates an executable in the target/release directory.
 
-Running the Program
+Running the Program --
 Execute the program from the command line in the target/release directory. Upon launch, you're presented with a menu offering three options:
 
 Encrypt/Decrypt a file.
