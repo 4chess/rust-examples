@@ -1,5 +1,6 @@
 NOTE!! As of this directory, 32 and forward, we will make more robust examples of fully working apps. 
-Rust Encryption/Decryption Tool
+Rust Encryption/Decryption otp
+
 
 This application is a straightforward, command-line tool designed for basic file encryption and decryption using XOR methodology. It's built with Rust and offers a user-friendly interface for both generating encryption keys and processing files.
 
